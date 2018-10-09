@@ -1,0 +1,5 @@
+#place an * in front of the campus that the application should start with. There should be no space in between the * and the campus name. 
+#if multiple campuses have an *, the last one read will become the start campus. 
+Bothell
+Seattle
+*Tacoma

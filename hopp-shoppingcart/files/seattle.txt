@@ -1,0 +1,6 @@
+Apple iPad8;499.99
+Nexus 6P;479.99
+Nexus 5X;399.99
+Samsung S6 Edge;649.99
+Microsoft Surface Pro;899.99
+Microsoft Surface;499.99

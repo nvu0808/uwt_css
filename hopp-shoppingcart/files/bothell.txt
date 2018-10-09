@@ -1,0 +1,7 @@
+Jolly Ranchers;0.50;6;2.50
+Laffy Taffy;0.50;6;2.50
+Snickers Bar;1.00
+Heath Bar;1.00
+Bottled Water;1.00
+Turkey Sandwich;4.99
+Tim's Chips;1.24
