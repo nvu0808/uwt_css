@@ -1,0 +1,31 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ADDKEY                  3045
+//	AGAIN                   301B
+//	CRYPT                   3023
+//	DECRT                   303A
+//	E                       30BD
+//	ENCRT                   3035
+//	END                     305C
+//	GETKEY                  300E
+//	GETSTR                  3016
+//	GETTYPE                 3006
+//	GOBACK                  3031
+//	GOON                    3058
+//	GOON1                   302E
+//	KEY                     30BA
+//	KEYSTR                  3079
+//	LOOP                    3026
+//	LOOP2                   3053
+//	MESS                    30BB
+//	MESSSTR                 3096
+//	NEWLINE                 30B7
+//	PRINT                   3051
+//	RES                     30BC
+//	SAVER7                  30B8
+//	SUBKEY                  304A
+//	TOGGLE                  303F
+//	TYPE                    30B9
+//	TYPESTR                 305D
+//	ZERO                    30BE
+//	addOne                  3043
